@@ -9,5 +9,5 @@
 #selected all files, click not green arrow - has you enter your git username, then password. i tried entering my password several times, but it will give the error message that "... support ended on August 13, 2021." enter personal access token instead!
 #success! says >>> /usr/bin/git push origin HEAD:refs/heads/main | Everything up-to-date
 #changes not reflected in git
-#ah! press commit, not green arrow
+#ah!commit changes, THEN green arrow to push to git
 #i believe you have to reenter the key every 12 hours? 
