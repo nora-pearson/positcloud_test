@@ -12,3 +12,5 @@
 #changes not reflected in git
 #ah!commit changes, THEN green arrow to push to git
 #i believe you have to reenter the key every 12 hours? 
+
+#trying to share github repo with posit cloud - if it's in a group/org (like jelinski-lab-pedology) on git, git will not allow it to be pulled due to authentication settings. project owner should have repo on their personal git. once pulled into posit, others can still edit it, but seems like owner will have to be the one to commit changes
